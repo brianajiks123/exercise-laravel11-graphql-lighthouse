@@ -57,7 +57,7 @@ Visit GraphQL DevTools using Browser
 
 **Client:** HTML, CSS, JavaScript, Chrome
 
-**Server:** Laravel 11, Lighthouse, Git, VS Code, Windows 11
+**Server:** Laravel 11, MySQL, Lighthouse, Git, Apache Web Server, VS Code, Windows 11
 
 
 ## Acknowledgements
