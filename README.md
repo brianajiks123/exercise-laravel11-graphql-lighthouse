@@ -1,5 +1,5 @@
 
-# Odd-Even Vehicle Interception Website v1
+# Implementation GraphQL Using Lighthouse in Laravel 11
 Implementation of GraphQL using Lighthouse. For now, this project is still in development stage. The implementation results can be seen in the below.
 
 
