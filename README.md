@@ -63,6 +63,8 @@ Visit GraphQL DevTools using Browser
 
  - [Laravel](https://laravel.com/docs/11.x)
  - [GraphQL Lighthouse](https://lighthouse-php.com/6/getting-started/installation.html)
+
+
 ## Authors
 
 - [@brianajiks123](https://www.github.com/brianajiks123)
