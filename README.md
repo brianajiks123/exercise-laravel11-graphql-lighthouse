@@ -19,7 +19,7 @@ Implementation of GraphQL using Lighthouse. For now, this project is still in de
 Clone the project
 
 ```bash
-  git clone [https://link-to-project](https://github.com/brianajiks123/exercise-laravel11-graphql-lighthouse.git)
+  git clone https://github.com/brianajiks123/exercise-laravel11-graphql-lighthouse.git
 ```
 
 Go to the project directory
