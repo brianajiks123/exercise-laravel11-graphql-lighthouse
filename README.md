@@ -40,6 +40,12 @@ Migrate Database (make sure already setup your environment in the .env file)
   php artisan migrate
 ```
 
+Running Development
+
+```bash
+  php artisan serve
+```
+
 Visit GraphQL DevTools using Browser
 
 ```bash
@@ -61,4 +67,3 @@ Visit GraphQL DevTools using Browser
 ## Authors
 
 - [@brianajiks123](https://www.github.com/brianajiks123)
-
