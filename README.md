@@ -24,37 +24,37 @@ Implementation of GraphQL using Lighthouse. For now, this project is still in de
 Clone the project
 
 ```bash
-  git clone https://github.com/brianajiks123/exercise-laravel11-graphql-lighthouse.git
+git clone https://github.com/brianajiks123/exercise-laravel11-graphql-lighthouse.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd exercise-laravel11-graphql-lighthouse
+cd exercise-laravel11-graphql-lighthouse
 ```
 
 Install Dependencies (Laravel)
 
 ```bash
-  composer install
+composer install
 ```
 
 Migrate Database (make sure already setup your environment in the .env file)
 
 ```bash
-  php artisan migrate
+php artisan migrate
 ```
 
 Running Development
 
 ```bash
-  php artisan serve
+php artisan serve
 ```
 
 Visit GraphQL DevTools using Browser
 
 ```bash
-  /graphiql
+/graphiql
 ```
 
 
