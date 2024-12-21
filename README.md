@@ -2,6 +2,12 @@
 Implementation of GraphQL using Lighthouse. For now, this project is still in development stage. The implementation results can be seen in the below.
 
 
+## Prerequisite:
+
+- Composer >= 2.8
+- PHP >= 8.3
+
+
 ## Features
 
 - Integration GraphQL Lighthouse
